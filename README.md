@@ -9,8 +9,11 @@ Link to the GameJam: https://itch.io/jam/cgj
 
 Link to the game (windows): https://dragzalfr.itch.io/thejailbirdjam
 
-# Script file as main contributor:
+# Script file as main contributor
 [CameraMovement.cs](https://github.com/DragzalFR/LiarJam/blob/master/Assets/Scripts/CameraMovement.cs)  
 [Door.cs](https://github.com/DragzalFR/LiarJam/blob/master/Assets/Scripts/Door.cs)  
 [Personage.cs](https://github.com/DragzalFR/LiarJam/blob/master/Assets/Scripts/Personage.cs)  
 [Guard.cs](https://github.com/DragzalFR/LiarJam/blob/master/Assets/Scripts/Guard.cs)    
+
+# Version control
+During the game jam, the version control was done using UnityCollab.
